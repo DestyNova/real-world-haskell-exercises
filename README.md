@@ -9,11 +9,11 @@ This repo will contain exercises and maybe some thoughts on stuff I've learned (
 # Handy commands
 
 * Updated something in `package.yaml`, or added a new module (including tests)? Don't forget to regenerate the cabal file:
-  ```
+  ```bash
   stack build
   ```
 * Want to execute tests ridiculously fast, automatically whenever you save a file?
-  ```
+  ```bash
   # install / set up sensei
   stack install sensei              # if you didn't already have it
   echo ":set -iapp -itest" > .ghci  # so ghci can find the test modules
