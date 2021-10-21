@@ -18,3 +18,9 @@ I'll keep a list of possible open-source contributions the group could make here
     * Are there any nice frameworks for making games easily in Haskell that haven't been abandoned for years?
       * (Why does that happen...)
 
+## Education
+
+* Some way to help people use Haskell productively almost immediately, without needing a PhD in Haskellology or having to read 1,000 pages of dense material.
+  * Yeah but...
+    * How? Some kind of interactive guide to the absolute basics required to get going? What are those?
+    * Is the current situation the optimal minimal time/brain investment already?
