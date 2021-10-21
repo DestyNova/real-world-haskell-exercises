@@ -11,6 +11,7 @@ This repo will contain exercises and maybe some thoughts on stuff I've learned (
 ## 2021-10-22
 
 * First meet of the new Haskell book club, over Zoom. About 6 or 7 people showed up, we introduced ourselves and the host shared some ideas and goals in doing this. Then we skimmed through the basic exercises in chapters 1 and 2 of the book.
+    * One suggestion from the meeting was that it'd be cool if we could contribute some open source sooner or later. I'll add an [ideas file](./ideas.md) for some possible stuff we could do. Might be my ideas, but more likely it'll be stolen from whoever volunteers it at the meetings.
     * Next meeting: 2021-11-??, expecting to have finished chapters 3-5.
 
 # Handy commands
