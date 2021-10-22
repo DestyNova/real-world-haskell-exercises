@@ -4,7 +4,7 @@ I'll keep a list of possible open-source contributions the group could make here
 
 ## Tooling
 
-* AST-based refactoring / smart editing, like the amazing [Lamdu](https://github.com/lamdu/lamdu) but maybe a bit less radical and vimmable.
+* AST-based refactoring / smart editing, like the amazing [Lamdu](https://github.com/lamdu/lamdu) but maybe a bit less radical and more vimmable.
   * Yeah but...
     * What would be practical, without reinventing something else?
     * Who wants it?
