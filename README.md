@@ -1,6 +1,6 @@
 # Real World Haskell exercises
 
-The [Dublin Haskell Meetup](https://www.meetup.com/haskell-dublin-meetup) has recently been resurrected (Meetup.com was sending us emails warning that the group would be disbanded, so one member took the initiative to bring it back to life), and we've started going through the book [Real World Haskell](http://book.realworldhaskell.org/read), by Barry O'Sullivan.
+The [Dublin Haskell Meetup](https://www.meetup.com/haskell-dublin-meetup) has recently been resurrected (Meetup.com was sending us emails warning that the group would be disbanded, so one member took the initiative to bring it back to life), and we've started going through the book [Real World Haskell](http://book.realworldhaskell.org/read), by Bryan O'Sullivan.
 
 That book seems very well-regarded in the community, but it is a bit behind the times, not having seen an update since 2008. However, there is an [open project to update the tome](https://github.com/tssm/up-to-date-real-world-haskell), so I'm following along with that rather than directly from the original book, even though the updated version is incomplete (and also a bit stale).
 
