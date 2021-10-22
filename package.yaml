@@ -1,7 +1,7 @@
 name:                real-world-haskell-exercises
 version:             0.1.0.0
 github:              "DestyNova/real-world-haskell-exercises"
-license:             zlib
+license:             MIT
 author:              "Oisín Mac Fhearaí"
 maintainer:          "denpashogai@gmail.com"
 copyright:           "2021 Oisín Mac Fhearaí"

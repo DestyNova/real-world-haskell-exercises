@@ -12,8 +12,7 @@ bug-reports:    https://github.com/DestyNova/real-world-haskell-exercises/issues
 author:         Oisín Mac Fhearaí
 maintainer:     denpashogai@gmail.com
 copyright:      2021 Oisín Mac Fhearaí
-license:        zlib
-license-file:   LICENSE
+license:        MIT
 build-type:     Simple
 extra-source-files:
     README.md
