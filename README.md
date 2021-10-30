@@ -23,9 +23,9 @@ This repo will contain exercises and maybe some thoughts on stuff I've learned (
 * Want to execute tests ridiculously fast, automatically whenever you save a file?
   ```bash
   # install / set up sensei
-  stack install sensei              # if you didn't already have it
-  echo ":set -iapp -itest" > .ghci  # so ghci can find the test modules
-  chmod go-w .ghci .                # so ghci doesn't complain about exploitable permissions
+  stack install sensei                    # if you didn't already have it
+  echo ":set -iapp -isrc -itest" > .ghci  # so ghci can find the test modules
+  chmod go-w .ghci .                      # so ghci doesn't complain about exploitable permissions
 
   # magic
   stack exec sensei test/Spec.hs

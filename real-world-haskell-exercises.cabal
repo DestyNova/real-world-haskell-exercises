@@ -13,6 +13,7 @@ author:         Oisín Mac Fhearaí
 maintainer:     denpashogai@gmail.com
 copyright:      2021 Oisín Mac Fhearaí
 license:        MIT
+license-file:   LICENSE
 build-type:     Simple
 extra-source-files:
     README.md
@@ -23,6 +24,8 @@ source-repository head
 
 library
   exposed-modules:
+      Ch2
+      Ch3
       Lib
   other-modules:
       Paths_real_world_haskell_exercises
@@ -35,6 +38,7 @@ library
 executable real-world-haskell-exercises-exe
   main-is: Main.hs
   other-modules:
+      Ch1
       Paths_real_world_haskell_exercises
   hs-source-dirs:
       app
@@ -49,6 +53,8 @@ test-suite real-world-haskell-exercises-test
   main-is: Spec.hs
   other-modules:
       Ch1Spec
+      Ch2Spec
+      Ch3Spec
       Paths_real_world_haskell_exercises
   hs-source-dirs:
       test
